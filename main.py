@@ -1,3 +1,3 @@
 
 
-print('Olá, mundo!\n')
+print('Este projeto está sendo desenvolvido com Git e Github')
